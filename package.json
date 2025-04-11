@@ -30,7 +30,7 @@
     "dependencies": {
         "@metamask/phishing-controller": "^12.0.2",
         "fastest-levenshtein": "^1.0.16",
-        "tldts": "^6.1.43"
+        "tldts": "^6.1.84"
     },
     "devDependencies": {
         "@types/punycode": "^2.1.4",
